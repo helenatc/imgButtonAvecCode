@@ -16,7 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    UIImage* img1=[UIImage imageNamed:@"botao001"];
+    [self.buttonOne setImage:img1 forState:UIControlStateNormal];
+
+
+
 }
 
 - (void)didReceiveMemoryWarning {

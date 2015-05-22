@@ -14,6 +14,7 @@
 		745661CA1B0E74B20047E08E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 745661C91B0E74B20047E08E /* Images.xcassets */; };
 		745661CD1B0E74B20047E08E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 745661CB1B0E74B20047E08E /* LaunchScreen.xib */; };
 		745661D91B0E74B30047E08E /* imgButtonTutorial02Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 745661D81B0E74B30047E08E /* imgButtonTutorial02Tests.m */; };
+		745661E31B0E752D0047E08E /* botao001.png in Resources */ = {isa = PBXBuildFile; fileRef = 745661E21B0E752D0047E08E /* botao001.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		745661D21B0E74B30047E08E /* imgButtonTutorial02Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = imgButtonTutorial02Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		745661D71B0E74B30047E08E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		745661D81B0E74B30047E08E /* imgButtonTutorial02Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = imgButtonTutorial02Tests.m; sourceTree = "<group>"; };
+		745661E21B0E752D0047E08E /* botao001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = botao001.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		745661BC1B0E74B20047E08E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				745661E21B0E752D0047E08E /* botao001.png */,
 				745661BD1B0E74B20047E08E /* Info.plist */,
 				745661BE1B0E74B20047E08E /* main.m */,
 			);
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				745661C81B0E74B20047E08E /* Main.storyboard in Resources */,
+				745661E31B0E752D0047E08E /* botao001.png in Resources */,
 				745661CD1B0E74B20047E08E /* LaunchScreen.xib in Resources */,
 				745661CA1B0E74B20047E08E /* Images.xcassets in Resources */,
 			);
